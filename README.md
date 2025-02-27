@@ -46,8 +46,8 @@ The `Animation.m` script extends the analysis by introducing an additional varia
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone <alkotras42/Hermitian-Correlations>
+   cd <Hermitian-Correlations>
    ```
 2. **Open MATLAB** and navigate to the repository folder.
 
